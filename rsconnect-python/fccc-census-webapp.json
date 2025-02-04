@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/mollybarron/Desktop/FCCC/FCCC_App/fccc-census-webapp",
+        "app_url": "https://molly-pop.shinyapps.io/fccc-census-webapp/",
+        "app_id": 12651664,
+        "app_guid": null,
+        "title": "fccc-census-webapp",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
